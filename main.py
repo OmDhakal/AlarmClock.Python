@@ -1,4 +1,3 @@
-#My first Project
 # #Python Alarm Clock
 import time
 import datetime
